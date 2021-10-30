@@ -1,0 +1,641 @@
+{
+    "university": [
+        {
+            "id": 174,
+            "name": "University of Southern California",
+            "photo": "https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/U-of-southern-california.jpg",
+            "latitude": 37.871853,
+            "longitude": -122.258423
+        },
+        {
+            "id": 175,
+            "name": "University of Pennsylvania",
+            "photo": "https://penntoday.upenn.edu/sites/default/files/2018-03/36236880503_69a2a0236f_k.jpg",
+            "latitude": 39.9522,
+            "longitude": -75.1932
+        },
+        {
+            "id": 176,
+            "name": "Carnegie Melon University",
+            "photo": "https://images.squarespace-cdn.com/content/v1/54c2a5c7e4b043776a0b0036/1565200225442-M0NGWAWY5KD5VTW4QFHN/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/CMU+Commencement+-8.jpg?format=1500w",
+            "latitude": 40.4432,
+            "longitude": -79.9428
+        },
+        {
+            "id": 177,
+            "name": "Stanford University",
+            "photo": "https://scpd.stanford.edu/sites/default/files/2020-08/stanford-oval.jpg",
+            "latitude": 37.4275,
+            "longitude": -122.1697
+        },
+        {
+            "id": 178,
+            "name": "University of Illinois - Urbana, Champaign",
+            "photo": "https://nnhsnorthstar.com/wp-content/uploads/2018/10/uiuc-900x600.jpg",
+            "latitude": 40.110558,
+            "longitude": -88.228333
+        },
+        {
+            "id": 179,
+            "name": "University of San Deigo",
+            "photo": "https://i2.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/2.jpg",
+            "latitude": 32.774799,
+            "longitude": -117.071869
+        },
+        {
+            "id": 180,
+            "name": "University of Toronto",
+            "photo": "https://i1.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/4.jpg",
+            "latitude": 43.6629,
+            "longitude": -79.3957
+        },
+        {
+            "id": 181,
+            "name": "Boston University",
+            "photo": "https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/5.jpg",
+            "latitude": 42.3505,
+            "longitude": -71.1054
+        },
+        {
+            "id": 182,
+            "name": "Cardiff University",
+            "photo": "https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/7.jpg",
+            "latitude": 51.4866,
+            "longitude": -3.1789
+        },
+        {
+            "id": 183,
+            "name": "New York University",
+            "photo": "https://i1.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/8-1.jpg",
+            "latitude": 40.7295,
+            "longitude": -73.9965
+        },
+        {
+            "id": 184,
+            "name": "Columbia University",
+            "photo": "https://i1.wp.com/ischoolconnect.com/blog/wp-content/uploads/2019/04/Columbia-University-1-1.jpg",
+            "latitude": 40.808,
+            "longitude": -73.9621
+        },
+        {
+            "id": 185,
+            "name": "University of Newcastle",
+            "photo": "https://i2.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/9.jpg",
+            "latitude": 54.9792,
+            "longitude": -1.6147
+        },
+        {
+            "id": 186,
+            "name": "University of Michigan - Ann Arbor",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKa8K9WsDTLzNT6L6qAHkdX9SmzT9Qwc47aw&usqp=CAU",
+            "latitude": 42.278046,
+            "longitude": -83.73822
+        },
+        {
+            "id": 187,
+            "name": "Massachusetts Institute of Technology",
+            "photo": "https://img.emg-services.net/institutes/institute23694/namnl%C3%B6s-design-1.png",
+            "latitude": 42.360001,
+            "longitude": -71.092003
+        },
+        {
+            "id": 188,
+            "name": "Harvard University",
+            "photo": "https://cdn.britannica.com/69/141169-050-CD5892EB/Baker-Library-Harvard-Business-School-Boston-University.jpg",
+            "latitude": 42.377,
+            "longitude": -71.1167
+        },
+        {
+            "id": 189,
+            "name": "University of California, Berkeley",
+            "photo": "https://news.berkeley.edu/wp-content/uploads/2020/05/Wheelerbluegold750.jpg",
+            "latitude": 37.8719,
+            "longitude": -122.2585
+        },
+        {
+            "id": 190,
+            "name": "University of California, Los Angeles",
+            "photo": "https://www.doingcollege.com/wp-content/uploads/2018/10/UC_LA.jpg",
+            "latitude": 34.0689,
+            "longitude": -118.4452
+        },
+        {
+            "id": 191,
+            "name": "Yale University",
+            "photo": "https://www.yaleclubdc.org/assets/aboutyale.png",
+            "latitude": 41.3163,
+            "longitude": -72.9223
+        },
+        {
+            "id": 192,
+            "name": "Princeton University",
+            "photo": "https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2020/06/20170816_CL_DJA_152%281%29.jpg?itok=gk_-O3D3",
+            "latitude": 40.3431,
+            "longitude": -74.6551
+        },
+        {
+            "id": 193,
+            "name": "University of Chicago",
+            "photo": "https://www.honorsociety.org/sites/default/files/uni-campus-18391",
+            "latitude": 41.7886,
+            "longitude": -87.5987
+        },
+        {
+            "id": 194,
+            "name": "Cornell University",
+            "photo": "https://www.cornell.edu/assets/images/about/barnes-hall-tower-view-1280x720.jpg",
+            "latitude": 42.4534,
+            "longitude": -76.4735
+        },
+        {
+            "id": 195,
+            "name": "Duke University",
+            "photo": "https://frontiersinblog.files.wordpress.com/2020/02/26628043971_c8c3a4a770_k.jpg",
+            "latitude": 36.0014,
+            "longitude": -78.9382
+        },
+        {
+            "id": 196,
+            "name": "John Hopkins",
+            "photo": "https://lv7ms1pq6dm2sea8j1mrajzw-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/JHU-1200x675.jpg",
+            "latitude": 39.3299,
+            "longitude": -76.6205
+        },
+        {
+            "id": 197,
+            "name": "Northwestern University",
+            "photo": "https://www.usnews.com/dims4/USNEWS/662ed61/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fe3%2Fa8e6faf36f4bc5e57a814a6b99abce%2FNorthwestern-Hero1.jpg",
+            "latitude": 18.1856,
+            "longitude": -120.5671
+        },
+        {
+            "id": 198,
+            "name": "Brown University",
+            "photo": "https://www.brown.edu/sites/g/files/dprerj316/files/styles/wide_lrg/public/2019-04/01_About.jpg?h=920929c4&itok=qfK45nGF",
+            "latitude": 41.8268,
+            "longitude": -71.4025
+        },
+        {
+            "id": 199,
+            "name": "California Institute of Technology (Caltech)",
+            "photo": "https://www.timeshighereducation.com/student/sites/default/files/caltech.jpg",
+            "latitude": 34.1377,
+            "longitude": -118.1253
+        },
+        {
+            "id": 200,
+            "name": "Emory University",
+            "photo": "https://marvel-b1-cdn.bc0a.com/f00000000067087/www.bdcnetwork.com/sites/bdc/files/styles/content_features/public/Emory%20opener%20w%3Ao%20team.png?itok=E3ezp2yd",
+            "latitude": 33.7971,
+            "longitude": -84.3222
+        },
+        {
+            "id": 201,
+            "name": "Rice University",
+            "photo": "https://www.usnews.com/dims4/USNEWS/6489748/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F45%2F8c%2Fee131da64ce48f9d9b0dd1a23f68%2F210324.jpg",
+            "latitude": 29.7174,
+            "longitude": -95.4018
+        },
+        {
+            "id": 202,
+            "name": "University of Washington, Seattle",
+            "photo": "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/92/2015/02/07205301/Cherries.jpg",
+            "latitude": 47.39,
+            "longitude": -122.18
+        },
+        {
+            "id": 203,
+            "name": "University of California, San Diego (UCSD)",
+            "photo": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/prad1.jpg?itok=JZWFZefG",
+            "latitude": 32.8801,
+            "longitude": -117.234
+        },
+        {
+            "id": 204,
+            "name": "University of Texas, Austin",
+            "photo": "https://news.utexas.edu/wp-content/uploads/2020/01/iStock-155441000.jpg",
+            "latitude": 30.2849,
+            "longitude": -97.7341
+        },
+        {
+            "id": 205,
+            "name": "University of Rochester",
+            "photo": "https://cdn.the-scientist.com/assets/articleNo/64292/iImg/26721/a6aab0fc-06c7-4bf9-8d4e-d52de026550e-uni-640.jpg",
+            "latitude": 43.1306,
+            "longitude": -77.626
+        },
+        {
+            "id": 206,
+            "name": "Dartmouth College",
+            "photo": "https://www.vpr.org/sites/vpr/files/styles/x_large/public/201805/Dartmouth_College.jpeg",
+            "latitude": 43.7044,
+            "longitude": -72.2887
+        },
+        {
+            "id": 207,
+            "name": "University of California, Davis (UCD)",
+            "photo": "https://assets-eu-01.kc-usercontent.com/ef047d08-1d58-0178-15c7-078db6e22a46/e680553c-8bc2-4933-882b-1d989301ff55/aerial-orh.jpg",
+            "latitude": 38.5382,
+            "longitude": -121.7617
+        },
+        {
+            "id": 208,
+            "name": "University of Florida",
+            "photo": "https://images.shiksha.com/mediadata/images/1533552010phppWg6hz.jpeg",
+            "latitude": 29.6436,
+            "longitude": -82.3549
+        },
+        {
+            "id": 209,
+            "name": "University of Illinois, Chicago (UIC)",
+            "photo": "https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto/v1/TheBestSchools.org/university-of-illinois-chicago.jpg",
+            "latitude": 41.8696,
+            "longitude": -87.6496
+        },
+        {
+            "id": 210,
+            "name": "Georgia Institute of Technology (Georgia Tech)",
+            "photo": "https://www.gatech.edu/sites/default/files/uploads/images/superblock_images/clough.png",
+            "latitude": 33.7756,
+            "longitude": -84.3963
+        },
+        {
+            "id": 211,
+            "name": "Stony Brook University",
+            "photo": "https://news.stonybrook.edu/wp-content/uploads/2020/08/200507-academic-mall-019.jpg",
+            "latitude": 40.9048,
+            "longitude": -73.124
+        },
+        {
+            "id": 212,
+            "name": "University of Virginia",
+            "photo": "https://news.virginia.edu/sites/default/files/article_image/rotunda_dusk_ss_header_3-2_3.jpg",
+            "latitude": 38.0336,
+            "longitude": -78.508
+        },
+        {
+            "id": 213,
+            "name": "Rutgers - NJ, New Brunswick",
+            "photo": "https://i.ytimg.com/vi/4-C9i0Y0lqY/maxresdefault.jpg",
+            "latitude": 40.5008,
+            "longitude": -74.4474
+        },
+        {
+            "id": 214,
+            "name": "University of California, Santa Barbara (UCSB)",
+            "photo": "https://www.news.ucsb.edu/file/13923/download?token=_YTnQfjz",
+            "latitude": 34.414,
+            "longitude": -119.8489
+        },
+        {
+            "id": 215,
+            "name": "Pennsylvania State University, University Park",
+            "photo": "https://snworksceo.imgix.net/dpn/50d64c86-6bdf-4666-be21-dde457db694f.sized-1000x1000.jpg?w=1000",
+            "latitude": 40.7982,
+            "longitude": -77.8599
+        },
+        {
+            "id": 216,
+            "name": "University of California, Irvine (UCI)",
+            "photo": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2019/05/10/University_of_California_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+            "latitude": 33.6405,
+            "longitude": -117.8443
+        },
+        {
+            "id": 217,
+            "name": "University of Notre Dame",
+            "photo": "https://lv7ms1pq6dm2sea8j1mrajzw-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Notre-Dame-1200x675.jpg",
+            "latitude": 41.6991,
+            "longitude": -86.2388
+        },
+        {
+            "id": 218,
+            "name": "University of Miami",
+            "photo": "https://www.coe.miami.edu/_assets/images/homepage/full-width-slider/slide1-small.jpg",
+            "latitude": 25.7179,
+            "longitude": -80.2746
+        },
+        {
+            "id": 219,
+            "name": "Northeastern University",
+            "photo": "https://static.dezeen.com/uploads/2019/09/pedx-northeastern-university-pedestrian-crossing-payette_dezeen-sq.jpg",
+            "latitude": 42.3398,
+            "longitude": -71.0892
+        },
+        {
+            "id": 220,
+            "name": "University at Buffalo SUNY",
+            "photo": "http://www.buffalo.edu/content/www/eub/ub_at_a_glance/our-campuses/_jcr_content/par/image_0.img.447.260.jpg/1516828611026.jpg",
+            "latitude": 43.0008,
+            "longitude": -78.789
+        },
+        {
+            "id": 221,
+            "name": "University of Maryland, College Park",
+            "photo": "https://images.shiksha.com/mediadata/images/1533615117php3G2rdv.jpeg",
+            "latitude": 38.9869,
+            "longitude": -76.9426
+        },
+        {
+            "id": 222,
+            "name": "Purdue University",
+            "photo": "https://www.purdue.edu/uns/images/2020/MemorialMallLO.JPG",
+            "latitude": 40.4237,
+            "longitude": -86.9212
+        },
+        {
+            "id": 223,
+            "name": "University of Minnesota, Twin Cities",
+            "photo": "https://admissions.tc.umn.edu/img/apply/sharemyapp-twincities.jpg",
+            "latitude": 44.974,
+            "longitude": -93.2277
+        },
+        {
+            "id": 224,
+            "name": "University of Massachusetts, Amherst",
+            "photo": "https://media-exp1.licdn.com/dms/image/C4E1BAQGXgpiPhWgrnw/company-background_10000/0/1530033263609?e=2159024400&v=beta&t=KBSftrX0OSP3NJlk9gwcPixqACOP4IOPaDa60qNkoS0",
+            "latitude": 42.3868,
+            "longitude": -72.5301
+        },
+        {
+            "id": 225,
+            "name": "University of Wisconsin-Madison",
+            "photo": "https://www.wisc.edu/images/social-card.jpg",
+            "latitude": 43.0766,
+            "longitude": -89.4125
+        },
+        {
+            "id": 226,
+            "name": "Syracuse University",
+            "photo": "https://www.syracuse.edu/wp-content/uploads/campus-crouse-maxwell-newhouse-1100x733.jpg",
+            "latitude": 43.0392,
+            "longitude": -76.1351
+        },
+        {
+            "id": 227,
+            "name": "University of Pittsburgh",
+            "photo": "https://www.insidehighered.com/sites/default/server_files/media/University%20of%20Pittsburgh_Tom%20Altany.jpg",
+            "latitude": 40.4444,
+            "longitude": -79.9608
+        },
+        {
+            "id": 228,
+            "name": "Arizona State University, Tempe",
+            "photo": "https://campus.asu.edu/sites/default/files/styles/asu_spotlight_image/public/general/campus-tempe_0.jpg?itok=dRjlIcRr",
+            "latitude": 33.4242,
+            "longitude": -111.9281
+        },
+        {
+            "id": 229,
+            "name": "Texas A&M University",
+            "photo": "https://engineering.tamu.edu/biomedical/_files/_images/_content-images/tamu-aerial-21Sept2020.jpg",
+            "latitude": 30.6188,
+            "longitude": -96.3365
+        },
+        {
+            "id": 230,
+            "name": "Drexel University",
+            "photo": "https://drexel.edu/~/media/Images/coresite/Admissions/Main_building/mobile.ashx",
+            "latitude": 39.9566,
+            "longitude": -75.1899
+        },
+        {
+            "id": 231,
+            "name": "Virginia Polytechnic Institute (Virginia Tech)",
+            "photo": "https://vt.edu/content/vt_edu/en/about/locations/_jcr_content/content/adaptiveimage.transform/m-medium/image.JPG",
+            "latitude": 37.2284,
+            "longitude": -80.4234
+        },
+        {
+            "id": 232,
+            "name": "Indiana University Bloomington",
+            "photo": "https://sd-prd-images.s3.amazonaws.com/prd/test-uisapp2/20200528T1137345611_1590680169863_indiana-university.jpg",
+            "latitude": 39.1754,
+            "longitude": -86.5126
+        },
+        {
+            "id": 233,
+            "name": "University of Colorado, Boulder",
+            "photo": "https://www.colorado.edu/biochemistry/sites/default/files/styles/slider/public/slider/jscbb.jpg?itok=GD-AFWTK",
+            "latitude": 40.0076,
+            "longitude": -105.2659
+        },
+        {
+            "id": 234,
+            "name": "Florida State University",
+            "photo": "https://www.collegeconsensus.com/wp-content/uploads/2016/12/fsu-1024x660.jpg",
+            "latitude": 30.4419,
+            "longitude": -84.2985
+        },
+        {
+            "id": 235,
+            "name": "University of South Florida",
+            "photo": "https://images.static-collegedunia.com/public/image/40469c36ba4e21c95fc27abbe1f81773.png?tr=w-800,h-458,c-force",
+            "latitude": 30.4419,
+            "longitude": -84.2985
+        },
+        {
+            "id": 236,
+            "name": "University of California, Santa Cruz (UCSC)",
+            "photo": "https://static.yocket.in/images/universities/backgrounds/University-of-California-Santa-Cruz-bg.jpg",
+            "latitude": 36.9881,
+            "longitude": -122.0582
+        },
+        {
+            "id": 237,
+            "name": "University of Texas, Dallas",
+            "photo": "https://images.adsttc.com/media/images/5e66/c226/b357/65a1/f300/00ac/large_jpg/UTD_17.jpg?1583792661",
+            "latitude": 32.9858,
+            "longitude": -96.7501
+        },
+        {
+            "id": 238,
+            "name": "Rutgers - State University of NJ, Newark",
+            "photo": "https://images.shiksha.com/mediadata/images/1533905316phpdEYKK6.jpeg",
+            "latitude": 40.7411,
+            "longitude": -74.1733
+        },
+        {
+            "id": 239,
+            "name": "Rhode Island School of Design",
+            "photo": "https://images.static-collegedunia.com/public/image/5aab1360690e76c6382c0f9adb46282a.png?tr=w-826,h-550,c-force",
+            "latitude": 41.8259,
+            "longitude": -71.4077
+        },
+        {
+            "id": 240,
+            "name": "Maryland Institute College of Art",
+            "photo": "https://baltimorecollegetown.org/sebin/x/i/mica-1.jpg",
+            "latitude": 39.3076,
+            "longitude": -76.6216
+        },
+        {
+            "id": 241,
+            "name": "California Institute of the Arts",
+            "photo": "https://images.static-collegedunia.com/public/image/eba9f22210bd6d8ec362e3c6d257485a.jpeg?tr=w-978,h-550,c-force",
+            "latitude": 34.3928,
+            "longitude": -118.5673
+        },
+        {
+            "id": 242,
+            "name": "Pratt Institute",
+            "photo": "https://www.world-architects.com/images/CmsPageElementImage/64/50/32/5c0acd3e11f849a6b404126395cab4ba/5c0acd3e11f849a6b404126395cab4ba.f5fb7444.jpg",
+            "latitude": 40.6914,
+            "longitude": -73.963
+        },
+        {
+            "id": 243,
+            "name": "University of Iowa, Iowa City",
+            "photo": "https://thecollegepost.com/wp-content/uploads/2018/08/OldCap2-800px.jpg",
+            "latitude": 41.6627,
+            "longitude": -91.555
+        },
+        {
+            "id": 244,
+            "name": "Ohio State University, Columbus",
+            "photo": "https://i.ytimg.com/vi/uJbtqaFL35M/maxresdefault.jpg",
+            "latitude": 40.0067,
+            "longitude": -83.0305
+        },
+        {
+            "id": 245,
+            "name": "Ohio University, Athens",
+            "photo": "https://www.usnews.com/dims4/USNEWS/fb27d24/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F2e%2Ff3588f8b4464b8c6a3f215f4213eff%2F20120604class_gateway_bws.jpg",
+            "latitude": 39.3244,
+            "longitude": -82.1014
+        },
+        {
+            "id": 246,
+            "name": "TU Delft",
+            "photo": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/546/cached.offlinehbpl.hbpl.co.uk/galleries/NAW/UNStudio_TUDelftEcho_Interieur1ste_CopyrightPlompmozes.jpg",
+            "latitude": 52.0022,
+            "longitude": 4.3736
+        },
+        {
+            "id": 247,
+            "name": "Mumbai University",
+            "photo": "https://s01.sgp1.digitaloceanspaces.com/large/845361-64303-fqaskvrupp-1501299805.JPG",
+            "latitude": 18.9293,
+            "longitude": 72.831
+        },
+        {
+            "id": 248,
+            "name": "The University of British Columbia",
+            "photo": "https://www.greedge.com/blog/wp-content/uploads/2017/08/ubc770.jpg",
+            "latitude": 49.2606,
+            "longitude": -123.246
+        },
+        {
+            "id": 249,
+            "name": "North Carolina State University, Raleigh",
+            "photo": "https://ced.ncsu.edu/wp-content/uploads/2017/01/CAMPUS.CoC_.8126-1500x844.jpg",
+            "latitude": 35.7847,
+            "longitude": -78.6821
+        },
+        {
+            "id": 250,
+            "name": "University of Alberta",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6esfWs1rs0x2psC8i1d5CJN5qvOFvSpYMg&usqp=CAU",
+            "latitude": 53.5232,
+            "longitude": -113.5263
+        },
+        {
+            "id": 251,
+            "name": "McGill University",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8h9pjMJYhRe9evTNV7RwQiueDF34q0BXp1w&usqp=CAU",
+            "latitude": 45.5048,
+            "longitude": -73.5772
+        },
+        {
+            "id": 252,
+            "name": "University of Windsor",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nHIIFMWF6IF9hJTLsvF7YUbBlE1N4QfTVw&usqp=CAU",
+            "latitude": 42.3043,
+            "longitude": -83.066
+        },
+        {
+            "id": 253,
+            "name": "University of Waterloo",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7GZcZZGBn4VP3oRal55VQNHsPURH9TwOOQ&usqp=CAU",
+            "latitude": 43.4723,
+            "longitude": -80.5449
+        },
+        {
+            "id": 254,
+            "name": "York University",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZlPubVvgly5JfbKdm6j6GoH4E8z0-1LZDndbkEbUTsDXbj1pfHB_m4glEgsZObP1dgs&usqp=CAU",
+            "latitude": 43.7735,
+            "longitude": -79.5019
+        },
+        {
+            "id": 255,
+            "name": "University of Victoria",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ465cMSIDmfJ636R1wPb3SBNpzKdo__87iUiewhQ0r6FhRaSG2w_tuN2TQNN_V89pCXkE&usqp=CAU",
+            "latitude": 48.4634,
+            "longitude": -123.3117
+        },
+        {
+            "id": 256,
+            "name": "Memorial University of Newfoundland",
+            "photo": "https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/02/memorial-university-of-newfoundland-residence.jpg",
+            "latitude": 47.5738,
+            "longitude": -52.7329
+        },
+        {
+            "id": 257,
+            "name": "Humber College",
+            "photo": "https://roboticsandautomationnews.com/wp-content/uploads/2018/10/humber-college.jpg",
+            "latitude": 43.729,
+            "longitude": -79.6074
+        },
+        {
+            "id": 258,
+            "name": "INSEAD",
+            "photo": "https://menlocoaching.com/wp-content/uploads/2020/01/Prodigy-Finance-INSEAD-business-spotlight.jpg",
+            "latitude": 48.4053,
+            "longitude": 2.6863
+        },
+        {
+            "id": 259,
+            "name": "London School of Economics and Political Science",
+            "photo": "https://images.static-collegedunia.com/public/image/1f1aaf32a5f4473b989df60c26a0e2c1.png?tr=w-673,h-450,c-force",
+            "latitude": 51.5144,
+            "longitude": -0.1165
+        },
+        {
+            "id": 260,
+            "name": "TU Braunschweig",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Studentenwerk_TU-Braunschweig.jpg",
+            "latitude": 52.274,
+            "longitude": 10.5293
+        },
+        {
+            "id": 261,
+            "name": "TU Berlin",
+            "photo": "https://images.shiksha.com/mediadata/images/1533883013phpEmJWH4.jpeg",
+            "latitude": 52.5125,
+            "longitude": 13.3269
+        },
+        {
+            "id": 262,
+            "name": "RWTH Aachen University",
+            "photo": "https://i2.wp.com/www.architravel.com/architravel_wp/wp-content/uploads/2021/01/C_A_R_L_-Auditorium_at_RWTH_Aachen_University_2.jpg?w=996&h=661&ssl=1",
+            "latitude": 50.7801,
+            "longitude": 6.0657
+        },
+        {
+            "id": 263,
+            "name": "TU Munich",
+            "photo": "https://www.in.tum.de/fileadmin/_processed_/5/5/csm_2006_1015Bild0136_9dc504e910.jpg",
+            "latitude": 48.1497,
+            "longitude": 11.5679
+        },
+        {
+            "id": 264,
+            "name": "Humboldt University",
+            "photo": "https://www.qs-unisolution.com/wp-content/uploads/2019/07/iStock-466617028.jpg",
+            "latitude": 52.5179,
+            "longitude": 13.3937
+        }
+    ]
+}

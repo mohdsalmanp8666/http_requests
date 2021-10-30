@@ -1,0 +1,87 @@
+{
+   "data":[
+      {
+         "data":{
+            "name":"Rest user 46",
+            "user_id":"0051fe65-5780-42f9-afa8-b754b9146b5c",
+            "gender":"Female",
+            "dob":"2003-06-16",
+            "age":18,
+            "personal_description":"aa",
+            "profile_photo":"https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/U-of-southern-california.jpg",
+            "personality_tags":[
+               "EasyGoing",
+               "GossipLover",
+               "GoldenHeart"
+            ],
+            "matched_tags":[
+               "Extrovert",
+               "OpenMinded",
+               "Workaholic"
+            ],
+            "fb_url":null,
+            "date_posted":null,
+            "sharing_preferences":"Either",
+            "city":"aa",
+            "course":"aaa",
+            "admission":"Confirmed",
+            "cooking_skills":"Maggi",
+            "food_preferences":"Occasionally Veg",
+            "flat_finder":"Currently Finding",
+            "user_activity":null,
+            "currency":null,
+            "budget":null,
+            "isUserVerified":false,
+            "admitCardStatus":"Not Started",
+            "prospective_university":{
+               "name":"University of Southern California",
+               "photo":"https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/U-of-southern-california.jpg"
+            }
+         },
+         "chat_status":"Active",
+         "chat_id":"1263"
+      },
+      {
+         "data":{
+            "name":"Kest user 283",
+            "user_id":"0229ac8c-cd0d-4b46-9e08-02052338c040",
+            "gender":"Female",
+            "dob":"2003-06-16",
+            "age":18,
+            "personal_description":"aa",
+            "profile_photo":"https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/U-of-southern-california.jpg",
+            "personality_tags":[
+               "EasyGoing",
+               "GossipLover",
+               "GoldenHeart"
+            ],
+            "matched_tags":[
+               "Extrovert",
+               "OpenMinded",
+               "Workaholic"
+            ],
+            "fb_url":null,
+            "date_posted":null,
+            "sharing_preferences":"Either",
+            "city":"aa",
+            "course":"aaa",
+            "admission":"Confirmed",
+            "cooking_skills":"Maggi",
+            "food_preferences":"Occasionally Veg",
+            "flat_finder":"Currently Finding",
+            "user_activity":null,
+            "currency":null,
+            "budget":null,
+            "isUserVerified":false,
+            "admitCardStatus":"Not Started",
+            "prospective_university":{
+               "name":"University of Southern California",
+               "photo":"https://i0.wp.com/ischoolconnect.com/blog/wp-content/uploads/2018/12/U-of-southern-california.jpg"
+            }
+         },
+         "chat_status":"Active",
+         "chat_id":"1264"
+      }
+   ],
+   "total_length":419
+}

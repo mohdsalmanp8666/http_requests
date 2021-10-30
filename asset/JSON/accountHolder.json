@@ -1,0 +1,35 @@
+{
+    "user_info": {
+        "name": "Mohd.Salman Patel",
+        "user_id": "1146c4f2-bda1-4af2-843c-e66decd79c29",
+        "gender": "Male",
+        "dob": "2001-06-02",
+        "age": 20,
+        "personal_description": "",
+        "profile_photo": "https://uni.roombae.com/uni_images/profile_image/107775611228880106140/pexels-adrien-olichon-2387793.jpg",
+        "personality_tags": [
+            "CheeseLover",
+            "HalalOnly",
+            "Foodie",
+            "Vegan",
+            "HardcoreVegetarian"
+        ],
+        "matched_tags": [],
+        "fb_url": null,
+        "date_posted": null,
+        "sharing_preferences": "Either",
+        "city": "India",
+        "course": "b.Tect",
+        "admission": "Tentative",
+        "cooking_skills": "Dal-roti-sabzi",
+        "food_preferences": "Occasionally Veg",
+        "flat_finder": "Not started",
+        "prospective_university": {
+            "name": "University of Pennsylvania",
+            "photo": "https://penntoday.upenn.edu/sites/default/files/2018-03/36236880503_69a2a0236f_k.jpg"
+        }
+    },
+    "share_profile": true,
+    "profile_active": true,
+    "show_notification": false
+}
