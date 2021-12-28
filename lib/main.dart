@@ -1,13 +1,10 @@
-import 'dart:io';
 
-import 'package:dio/dio.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http_requests/Dio/DioClient.dart';
 import 'package:http_requests/Dio/google_signin_api.dart';
 import 'package:http_requests/Models/UserModel.dart';
+import 'package:overlay_support/overlay_support.dart';
 
 void main() {
   runApp(MyApp());
@@ -33,7 +30,6 @@ class _MyAppState extends State<MyApp> {
   User? user;
   @override
   void initState() {
-    // ignore: todo
     // TODO: implement initState
     super.initState();
     // _client.getUser(id: '1');
@@ -51,45 +47,163 @@ class _MyAppState extends State<MyApp> {
   Map<String, String> headers = {
     "Content-Type": "application/json",
   };
+
+  // Initialization of variables for notifications
+  // late final FirebaseMessaging messaging;
+  // late int
+  // _recievedNotificationCounter; //For counting the number of notifications we've recieved
+
+  // Model calling
+  // PushNotification? notificationInfo;
+
+  // Registering Notification
+  // void registerNotification() async {
+  //   // Initialization of firebase app
+  //   await Firebase.initializeApp();
+
+  //   // Instance for firebase messaging
+  //   messaging = FirebaseMessaging.instance;
+
+  //   // There are three types of state in notification
+  //   // 1. state for permission of sending the notiffication is not determinded i.e. (Null)
+  //   // 2. Granted i.e. (True)
+  //   // 3. Declined i.e. (False)
+
+  //   // Creating notification setting
+  //   NotificationSettings setting = await messaging.requestPermission(
+  //     alert: true,
+  //     badge: true,
+  //     provisional: false,
+  //     sound: true,
+  //   );
+
+  //   // Checking whether the user has granted the permission or not
+  //   if (setting.authorizationStatus == AuthorizationStatus.authorized) {
+  //     print("User has granted the permission");
+
+  //     // Send main message
+  //     FirebaseMessaging.onMessage.listen((message) {
+  //       print("In listening");
+  //       // Sving the paticualar message to our push notification model
+
+  //       PushNotification notification = PushNotification(
+  //         title: message.notification!.title,
+  //         body: message.notification!.body,
+  //         dataTitle: message.data['title'],
+  //         dataBody: message.data['body'],
+  //       );
+
+  //       setState(() {
+  //         _recievedNotificationCounter++;
+  //         notificationInfo = notification;
+  //       });
+
+  //       if (notification != null) {
+  //         print("Got message");
+  //         showSimpleNotification(
+  //           Text(notificationInfo!.title.toString()),
+  //           leading: NotificationBadge(
+  //               totalNotification: _recievedNotificationCounter),
+  //           subtitle: Text(notificationInfo!.body.toString()),
+  //           background: Colors.cyan,
+  //           duration: Duration(seconds: 2),
+  //         );
+  //       }
+  //     });
+  //   }
+  //   print("I'm here");
+  // }
+
   // pages = total/20;
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        // This is the theme of your application.
-        //
-        // Try running your application with "flutter run". You'll see the
-        // application has a blue toolbar. Then, without quitting the app, try
-        // changing the primarySwatch below to Colors.green and then invoke
-        // "hot reload" (press "r" in the console where you ran "flutter run",
-        // or simply save your changes to "hot reload" in a Flutter IDE).
-        // Notice that the counter didn't reset back to zero; the application
-        // is not restarted.
-        primarySwatch: Colors.blue,
-      ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text("HTTP Requests"),
-        ),
-        body: Container(
-          width: double.infinity,
-          child: Column(
-            children: [
-              Text("Sign in with"),
-              ElevatedButton(
-                onPressed: signIn,
-                child: Text("Sign in with google"),
-              ),
-              ElevatedButton(
-                onPressed: signOut,
-                child: Text("Check Cookie"),
-              ),
-              signedIn ? Text("Logged in") : Text("Logged Out"),
-            ],
+    return OverlaySupport.global(
+      child: MaterialApp(
+          title: 'Flutter Demo',
+          theme: ThemeData(
+            // This is the theme of your application.
+            //
+            // Try running your application with "flutter run". You'll see the
+            // application has a blue toolbar. Then, without quitting the app, try
+            // changing the primarySwatch below to Colors.green and then invoke
+            // "hot reload" (press "r" in the console where you ran "flutter run",
+            // or simply save your changes to "hot reload" in a Flutter IDE).
+            // Notice that the counter didn't reset back to zero; the application
+            // is not restarted.
+            primarySwatch: Colors.blue,
           ),
-        ),
-      ),
+          home: Scaffold(
+            appBar: AppBar(
+              title: Text("Push Notification"),
+            ),
+            body: Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    "Flutter Push Notification",
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 12,
+                    ),
+                  ),
+                  // Showing the notificatin bagde which will count the total No.of notificattion we recieve
+                  // NotificationBadge(totalNotification: _recievedNotificationCounter),
+
+                  // If notificationInfo is not null
+                  // notificationInfo != null
+                  // ? Column(
+                  //     crossAxisAlignment: CrossAxisAlignment.center,
+                  //     children: [
+                  //       Text(
+                  //         "TITLE: ${notificationInfo!.dataTitle ?? notificationInfo!.title}",
+                  //         style: TextStyle(
+                  //           fontSize: 16,
+                  //           fontWeight: FontWeight.bold,
+                  //         ),
+                  //       ),
+                  //       SizedBox(
+                  //         height: 9,
+                  //       ),
+                  //       Text(
+                  //         "BODY: ${notificationInfo!.dataBody ?? notificationInfo!.body}",
+                  //         style: TextStyle(
+                  //           fontSize: 16,
+                  //           fontWeight: FontWeight.bold,
+                  //         ),
+                  //       ),
+                  //     ],
+                  //   )
+                  // : Container()
+                ],
+              ),
+            ),
+          )
+
+          // Scaffold(
+          //   appBar: AppBar(
+          //     title: Text("HTTP Requests"),
+          //   ),
+          //   body: Container(
+          //     width: double.infinity,
+          //     child: Column(
+          //       children: [
+          //         Text("Sign in with"),
+          //         ElevatedButton(
+          //           onPressed: signIn,
+          //           child: Text("Sign in with google"),
+          //         ),
+          //         ElevatedButton(
+          //           onPressed: signOut,
+          //           child: Text("Check Cookie"),
+          //         ),
+          //         signedIn ? Text("Logged in") : Text("Logged Out"),
+          //       ],
+          //     ),
+          //   ),
+          // ),
+          ),
     );
   }
 

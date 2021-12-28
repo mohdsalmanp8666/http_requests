@@ -41,6 +41,43 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124056496150:android:01bc5a7636e81369372d37",
+        "android_client_info": {
+          "package_name": "com.example.roombae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124056496150-0mg5b0093p84o7nf4ft4ss308ptphkhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roombae",
+            "certificate_hash": "71fe9aa30111a38500b5423542deb85e3fc6853f"
+          }
+        },
+        {
+          "client_id": "124056496150-5uqn33inffkk9g9l6be89fjnetvdg12h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrDy6OPQyc8YZ6Zh6zItoB40qxOTm9YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124056496150-5uqn33inffkk9g9l6be89fjnetvdg12h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
